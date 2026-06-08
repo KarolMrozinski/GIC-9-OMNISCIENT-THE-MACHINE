@@ -27,7 +27,7 @@
 
 ## 📂 Struktura plików
 
-- `80.html`: Główny plik aplikacji zawierający strukturę interfejsu, style CSS (w tym animacje glitch i overlaye) oraz logikę JavaScript (sterowanie Cesium, obsługa zdarzeń klawiatury, symulacje).
+- `index.html`: Główny plik aplikacji zawierający strukturę interfejsu, style CSS (w tym animacje glitch i overlaye) oraz logikę JavaScript (sterowanie Cesium, obsługa zdarzeń klawiatury, symulacje).
 
 ## 💻 Uruchomienie
 
