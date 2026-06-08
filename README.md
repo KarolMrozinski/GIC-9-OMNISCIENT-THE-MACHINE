@@ -32,7 +32,7 @@
 ## 💻 Uruchomienie
 
 Projekt nie wymaga kompilacji (tzw. "zero-config").
-1. Pobierz plik `80.html`.
+1. Pobierz plik `index.html`.
 2. Otwórz go w nowoczesnej przeglądarce internetowej.
 3. *Uwaga:* Ponieważ projekt korzysta z zewnętrznej biblioteki CesiumJS poprzez CDN, wymagane jest aktywne połączenie z Internetem do załadowania zasobów.
 
